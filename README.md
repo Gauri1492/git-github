@@ -1,2 +1,2 @@
 # git-github
-This is in phpstorm
+This is for tutorial purpose.
