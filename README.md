@@ -1,3 +1,4 @@
 # git-github
-This is for tutorial purpose.
-this is text file
+This is first line.
+This is second line.
+This is third line.
